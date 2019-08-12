@@ -135,7 +135,9 @@ if use == "n" or "N":
         print("")
         time.sleep(100000)
         exit()
-#elif mode == "W" or "w":
+#WORK IN PROGRESS
+        
+        #elif mode == "W" or "w":
     word_list1 = [
         [antidynasty,
         alkyne,
